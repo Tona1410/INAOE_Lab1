@@ -1,0 +1,51 @@
+Caso,Min (W),Max (W),Percentage (%),Count,Descripcion
+1,9.61E-05,9.63E-05,0.3,30,Polarizador 0 deg
+1,9.63E-05,9.64E-05,1.2,133,Polarizador 0 deg
+1,9.64E-05,9.66E-05,4.2,447,Polarizador 0 deg
+1,9.66E-05,9.67E-05,17,1811,Polarizador 0 deg
+1,9.67E-05,9.69E-05,34.7,3695,Polarizador 0 deg
+1,9.69E-05,9.70E-05,28.9,3072,Polarizador 0 deg
+1,9.70E-05,9.72E-05,11.1,1177,Polarizador 0 deg
+1,9.72E-05,9.73E-05,2.2,235,Polarizador 0 deg
+1,9.73E-05,9.75E-05,0.4,41,Polarizador 0 deg
+1,9.75E-05,9.76E-05,0,4,Polarizador 0 deg
+2,4.83E-05,4.84E-05,0.2,18,Polarizador 45 deg
+2,4.84E-05,4.84E-05,0.5,52,Polarizador 45 deg
+2,4.84E-05,4.85E-05,1.2,137,Polarizador 45 deg
+2,4.85E-05,4.86E-05,2.8,320,Polarizador 45 deg
+2,4.86E-05,4.86E-05,11.5,1289,Polarizador 45 deg
+2,4.86E-05,4.87E-05,20,2245,Polarizador 45 deg
+2,4.87E-05,4.88E-05,36.4,4093,Polarizador 45 deg
+2,4.88E-05,4.88E-05,22.2,2499,Polarizador 45 deg
+2,4.88E-05,4.89E-05,4.9,551,Polarizador 45 deg
+2,4.89E-05,4.89E-05,0.4,43,Polarizador 45 deg
+3,5.25E-05,5.27E-05,1.1,118,Polarizador 315 deg
+3,5.27E-05,5.29E-05,5,560,Polarizador 315 deg
+3,5.29E-05,5.30E-05,9.4,1049,Polarizador 315 deg
+3,5.30E-05,5.32E-05,13.9,1545,Polarizador 315 deg
+3,5.32E-05,5.34E-05,17.2,1913,Polarizador 315 deg
+3,5.34E-05,5.36E-05,14.6,1622,Polarizador 315 deg
+3,5.36E-05,5.38E-05,11.8,1317,Polarizador 315 deg
+3,5.38E-05,5.39E-05,12.4,1383,Polarizador 315 deg
+3,5.39E-05,5.41E-05,9.6,1070,Polarizador 315 deg
+3,5.41E-05,5.43E-05,5.1,567,Polarizador 315 deg
+4,3.19E-05,3.19E-05,0.1,8,Retardador 45 deg en brazo
+4,3.19E-05,3.20E-05,0.4,49,Retardador 45 deg en brazo
+4,3.20E-05,3.20E-05,2.1,232,Retardador 45 deg en brazo
+4,3.20E-05,3.21E-05,9.4,1051,Retardador 45 deg en brazo
+4,3.21E-05,3.21E-05,15,1669,Retardador 45 deg en brazo
+4,3.21E-05,3.21E-05,18.1,2021,Retardador 45 deg en brazo
+4,3.21E-05,3.22E-05,28,3120,Retardador 45 deg en brazo
+4,3.22E-05,3.22E-05,19.3,2154,Retardador 45 deg en brazo
+4,3.22E-05,3.23E-05,6.8,762,Retardador 45 deg en brazo
+4,3.23E-05,3.23E-05,0.7,74,Retardador 45 deg en brazo
+5,4.41E-05,4.42E-05,0.8,96,Retardador 45 deg antes analizador
+5,4.42E-05,4.43E-05,3.6,416,Retardador 45 deg antes analizador
+5,4.43E-05,4.44E-05,6,690,Retardador 45 deg antes analizador
+5,4.44E-05,4.45E-05,4.1,467,Retardador 45 deg antes analizador
+5,4.45E-05,4.46E-05,4.6,528,Retardador 45 deg antes analizador
+5,4.46E-05,4.47E-05,18.1,2075,Retardador 45 deg antes analizador
+5,4.47E-05,4.48E-05,35.7,4093,Retardador 45 deg antes analizador
+5,4.48E-05,4.50E-05,26.3,3014,Retardador 45 deg antes analizador
+5,4.50E-05,4.51E-05,0.5,62,Retardador 45 deg antes analizador
+5,4.51E-05,4.52E-05,0.1,8,Retardador 45 deg antes analizador
